@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+//基础样式
+@import "_mixin";
+@import "_seting";
+@import "_base";
+
+// 头部样式
+@import "_header";
+
+// 导航样式
+@import "_tab";
